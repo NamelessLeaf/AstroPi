@@ -1,3 +1,3 @@
 # AstroPi
-###Our Team
+### Our Team
 Astro pi project 
