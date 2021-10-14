@@ -1,4 +1,6 @@
 Plans are here:
 Multi program using lots of basic functions that may be needed and a fitness test,
-fir ness test taken on earth is compared to one in space using equpment 
+fitness test taken on earth is compared to one in space using equiptment
 we could also simulate 0 g and compare a fitness test in there to space and see how different the results are 
+possible ideas for comparisons:
+- 100m sprint (compare avg time, highest speed, lowest speed, avg. speed)
