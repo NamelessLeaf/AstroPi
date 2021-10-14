@@ -1,1 +1,3 @@
-print("lmao")
+def georgeisdum():
+  print("lmao")
+georgeisdum()
