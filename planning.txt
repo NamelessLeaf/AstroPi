@@ -1,3 +1,4 @@
 Plans are here:
-fitness space vs earth ting 
-space smart fridge 
+Multi program using lots of basic functions that may be needed and a fitness test,
+fir ness test taken on earth is compared to one in space using equpment 
+we could also simulate 0 g and compare a fitness test in there to space and see how different the results are 
