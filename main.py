@@ -1,5 +1,5 @@
-import Time
-import Gay
+import time
 gay = True
-while gay == True:
+george = gay
+while george == gay:
     print("Sussy Baka")
