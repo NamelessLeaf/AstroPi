@@ -1,6 +1,5 @@
 import time
 gay = True
-george = gay
-while george == gay:
-    time.sleep(1)
-    print("Sussy Baka")
+e = gay
+while e == gay:
+    print("Sussy Baka     Sussy Baka     Sussy Baka     Sussy Baka     Sussy Baka")
